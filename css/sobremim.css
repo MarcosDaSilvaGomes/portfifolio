@@ -1,0 +1,51 @@
+
+
+*{
+    margin:  0 ;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+body { background-image: url("../IMG/teclado.jpg");
+       background-size: cover;
+       background-position: absolute;
+       
+}
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2px;
+}
+
+.logo {
+    width: 50%;
+    margin-right: 50%;
+ 
+ 
+}
+
+
+.menu a{
+    color: black;
+    text-decoration: none;
+    margin-right: 50px;
+    font-weight: bold;
+}
+
+.in {
+    margin-top: 200px;
+}
+
+p {text-align:center;
+    width:fit-content;
+    border-radius: 1px;
+    padding: 80px 0 0 350px;
+   
+
+}
